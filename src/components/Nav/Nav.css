@@ -10,7 +10,6 @@
     align-items: center;
 }
 
-.mobile-menu,
 .menu {
     display: flex;
     flex-direction: row;

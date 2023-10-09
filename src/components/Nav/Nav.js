@@ -21,7 +21,6 @@ function Nav() {
                                 ? <span className="material-symbols-outlined">menu</span>
                                 : <span className="material-symbols-outlined">close</span>
                         }
-
                     </button>
                     <ul className={ mobileMenu ? "menu" : "mobile-menu" }>
                         <li>
